@@ -26,9 +26,9 @@ letter-spacing:0.1em;
 
 
 	.footer4 {
-    background-color:#534b48;
+    background-color:#033e8a;
 	padding: 14px 0;
-border-bottom: 5px solid #534b48;
+border-bottom: 5px solid #033e8a;
 letter-spacing:0.1em;
 font-weight: 500;
 
@@ -942,7 +942,7 @@ background-color:#e41e00;
 	margin-bottom: 3em;
 }
 .gallery:hover{
-	border: 6px solid #534b48;
+	border: 6px solid #033e8a;
 }
 i.zi {
 	display: inline-block;
@@ -1829,7 +1829,7 @@ letter-spacing: normal;
 }
 
 	.footer4 {
-    background-color:#534b48;
+    background-color:#033e8a;
 	padding: 14px 0;
 letter-spacing: normal;
 font-weight:bold;
@@ -2078,7 +2078,7 @@ background-image:url(../images/fdosuperior22.jpg);
 	.contact-head h2 {
 		font-size: 1.3em;
 		width: 100%;
-		border-bottom: 3px solid #534b48;
+		border-bottom: 3px solid #033e8a;
 	}
 	.contact {
 		padding: 0em 0 2em;
